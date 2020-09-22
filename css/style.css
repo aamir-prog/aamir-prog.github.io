@@ -1,0 +1,52 @@
+body{
+
+    font-family: 'Roboto Slab', serif;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+
+    color: rgb(145, 6, 6)!important;
+}
+.dropdown-item:hover {
+
+    color: rgb(145, 6, 6)!important;
+}
+.bg-dark {
+
+    background-color: rgb(145, 6, 6)!important;
+}
+.navbar-light .navbar-brand {
+
+    color: rgb(145, 6, 6)!important;
+}
+a {
+    color: white;
+}
+mark {
+
+    background-color: yellow;
+}
+.lien2 {
+
+    color: black;
+}
+.lien3 {
+
+    color: white;
+}
+.card-img-overlay {
+    position: static;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1.25rem;
+}
+.innovation {
+
+    background-color: rgb(145, 6, 6);
+}
+.jumbotron {
+
+    margin: 0;
+}
